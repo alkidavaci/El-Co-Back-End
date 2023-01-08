@@ -5,7 +5,6 @@
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contributing](#contributing)
   - [Questions](#Questions)
   
 
@@ -21,7 +20,9 @@
   💻Connect to mysql:          ` mysql -u root -p `<br>
   💻Run schema.sql file:       ` SOURCE db/schema.sql; `<br>
   💻Run seeds:                 ` npm run seed `<br>
-  💻Start application:         ` npm start ` 
+  💻Start application:         ` npm start `
+
+  💻Walkthrough [video](https://drive.google.com/file/d/1cxyoFb5vZFAPw4ii9sAQYXPE68xKy0wX/view) 
     
 
   ## License 
